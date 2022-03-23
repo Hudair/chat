@@ -3,9 +3,9 @@
                     $active_group = 'default';
                     $active_record = true;
                     $db['default']['hostname'] = 'localhost';
-                    $db['default']['username'] = 'mazyonah_chat                    ';
-                    $db['default']['password'] = '$p..t!^oKuC#                    ';
-                    $db['default']['database'] = 'mazyonah_chat                    ';
+                    $db['default']['username'] = 'mazyonah_chat';
+                    $db['default']['password'] = '$p..t!^oKuC#';
+                    $db['default']['database'] = 'mazyonah_chat';
                     $db['default']['dbdriver'] = 'mysqli';
                     $db['default']['dbprefix'] = '';
                     $db['default']['pconnect'] = FALSE;
